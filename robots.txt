@@ -1,0 +1,16 @@
+# Robots.txt for Audriusholding AS
+# https://audriusholding.no
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://audriusholding.no/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 10
+
+# Block access to common directories that shouldn't be indexed
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/

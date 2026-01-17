@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="1200" height="630" fill="#1a365d"/>
+
+    <!-- Accent bar -->
+    <rect x="0" y="0" width="1200" height="8" fill="#ff6b35"/>
+
+    <!-- Logo icon -->
+    <rect x="60" y="200" width="120" height="120" rx="16" fill="#2c4a7c"/>
+    <path d="M90 290V240L120 220L150 240V290H135V260H105V290H90Z" fill="#ff6b35"/>
+    <rect x="113" y="230" width="14" height="14" fill="white"/>
+
+    <!-- Text -->
+    <text x="200" y="260" font-family="Montserrat, sans-serif" font-size="48" font-weight="700" fill="white">Audriusholding AS</text>
+    <text x="200" y="310" font-family="Open Sans, sans-serif" font-size="24" fill="rgba(255,255,255,0.8)">Din Pålitelige Snekker i Oslo</text>
+
+    <!-- Tagline -->
+    <text x="60" y="480" font-family="Open Sans, sans-serif" font-size="20" fill="rgba(255,255,255,0.7)">Kjøkken | Garderober | Renovering | Terrasse</text>
+
+    <!-- Contact info -->
+    <text x="60" y="550" font-family="Open Sans, sans-serif" font-size="18" fill="#ff6b35">Gratis befaring - Konkurransedyktige priser</text>
+
+    <!-- Website -->
+    <text x="1140" y="550" text-anchor="end" font-family="Open Sans, sans-serif" font-size="16" fill="rgba(255,255,255,0.5)">audriusholding.no</text>
+</svg>

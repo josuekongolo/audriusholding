@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Icon -->
+    <rect width="48" height="48" rx="8" fill="#1a365d"/>
+    <path d="M12 36V20L24 12L36 20V36H28V26H20V36H12Z" fill="#ff6b35"/>
+    <rect x="22" y="16" width="4" height="4" fill="white"/>
+
+    <!-- Text -->
+    <text x="56" y="32" font-family="Montserrat, sans-serif" font-size="20" font-weight="700" fill="#1a365d">Audrius<tspan fill="#ff6b35">holding</tspan></text>
+</svg>
